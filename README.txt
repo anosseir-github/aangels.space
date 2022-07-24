@@ -28,3 +28,6 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+	
+	By editor:
+	ESA Envisat ASAR Imagery of the Netherlands (https://www.esa.int/Applications/Observing_the_Earth/Earth_from_Space_The_Netherlands); under CC BY-SA 3.0 IGO.
