@@ -36,8 +36,8 @@ Credits:
 powerful web forms: https://webform.pw 
 } Intern anosseir July 2022.
 ========================================================================================
-	Green Rocket img:
-	Shared By: Miko 07-16-2012
-	through http://www.clker.com/clipart-green-rocket-1.html 
+
+Website copyrights owned by A & ANGELS SPACE PROPULSION B.V. - Den Haag, The Netherlands
+info@aangels.space
 ========================================================================================
 
